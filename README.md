@@ -1,4 +1,4 @@
-# Anime Tagger — `convnextv2_huge.dbv4-full`
+# Anime Tagger + Image Processing — `convnextv2_huge.dbv4-full`
 
 A local Gradio web app for multilabel tagging of anime-style images using the [`animetimm/convnextv2_huge.dbv4-full`](https://huggingface.co/animetimm/convnextv2_huge.dbv4-full) model. Outputs Danbooru-style comma-separated captions suitable for LoRA and fine-tuning dataset preparation.
 
